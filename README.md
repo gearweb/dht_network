@@ -1,7 +1,7 @@
 # DHT network
 Simulation of experimental Distributed hash table based on kademlia 
 
-[View Animation here](https://github.com/toiletspider/dht_network/raw/master/vids/01-vid.mp4)<br />
+[View Animation here](https://github.com/grenaad/dht_network/raw/master/vids/01-vid.mp4)<br />
 
 
 ![Simulation 0](images/xor_rnd.png)<br />
